@@ -1,5 +1,5 @@
 # Pomodoro-Timer
-# https://pomodoro-timer-two-bice.vercel.app/
+# Project URL https://pomodoro-timer-two-bice.vercel.app/
 
 A clean and simple web-based Pomodoro Timer to help you stay focused and productive. This application allows you to switch between focused work sessions and short or long breaks, following the principles of the Pomodoro Technique.
 
